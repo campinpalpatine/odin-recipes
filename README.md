@@ -7,5 +7,5 @@ A HTML project for The Odin Project. This project will demonstrate basic HTML sk
 Either clone the repository or download source code. Then open index.html in your preferred browser.
 
 ## Credits
-Written with The Odin Project  s
+Written with The Odin Project  
 Recipes taken from [allrecipes](https://www.allrecipes.com)
