@@ -8,3 +8,4 @@ Either clone the repository or download source code. Then open index.html in you
 
 ## Credits
 Written with The Odin Project
+Recipes taken from [allrecipes](https://www.allrecipes.com)
